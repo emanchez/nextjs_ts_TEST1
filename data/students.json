@@ -1,0 +1,399 @@
+[
+  {
+    "lastName": "Martinez",
+    "id": "6384917258",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Seaton",
+    "id": "c9838fe878",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jalisa",
+    "lastName": "Jefferson",
+    "id": "850baa1291",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Crystal",
+    "lastName": "Pietz",
+    "id": "6920885488",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Maude",
+    "lastName": "Ekstrom",
+    "id": "db7177e86c",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jalisa",
+    "lastName": "Kenny",
+    "id": "98d722d93b",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Stepanie",
+    "lastName": "Holt",
+    "id": "1d82a5dd99",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Tierra",
+    "lastName": "Eskew",
+    "id": "addde009c2",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Crystal",
+    "lastName": "Amaya",
+    "id": "0c1642922d",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Bethann",
+    "lastName": "Priolo",
+    "id": "3bf558af65",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Pasquale",
+    "lastName": "Holt",
+    "id": "0b60ed85bd",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lillie",
+    "lastName": "Northup",
+    "id": "847503c801",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Fain",
+    "id": "016b215f38",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Adriane",
+    "lastName": "Jean-Carlo",
+    "id": "de54d7214e",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Tierra",
+    "lastName": "Donelan",
+    "id": "199fd96d20",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Hajduk",
+    "id": "0dcd607d2b",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Adriane",
+    "lastName": "Horowitz",
+    "id": "20ff4c2acc",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Ivana",
+    "lastName": "Damon",
+    "id": "dbc0f16136",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lillie",
+    "id": "0424b69068",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Trinh",
+    "lastName": "Martinez",
+    "id": "139dc686e7",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Stepanie",
+    "lastName": "Holt",
+    "id": "5c84f69ce5",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Angelia",
+    "lastName": "Logan",
+    "id": "3fc116803b",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Ivana",
+    "lastName": "Damon",
+    "id": "9da6bd28b2",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Adriane",
+    "lastName": "Priolo",
+    "id": "8dd5d34e6b",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Stepanie",
+    "lastName": "Kenny",
+    "id": "90a6baf4b1",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lakesha",
+    "lastName": "Fryer",
+    "id": "a74e602b4f",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Cornelius",
+    "lastName": "Pietz",
+    "id": "c1887e3f1b",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Kennedy",
+    "id": "c54bf5d1e3",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Roxann",
+    "lastName": "Priolo",
+    "id": "efb5cd7cf1",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Roxann",
+    "lastName": "Northup",
+    "id": "f6cde17cc5",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Reid",
+    "lastName": "Garcia",
+    "id": "70642dc599",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lakesha",
+    "lastName": "Martinez",
+    "id": "6e1d51caeb",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jenine",
+    "lastName": "Eskew",
+    "id": "4e73ffadb0",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Roxann",
+    "lastName": "Jefferson",
+    "id": "864cab0dac",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Crystal",
+    "id": "c16f332e63",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jalisa",
+    "lastName": "Spann",
+    "id": "68f21605f4",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Bethann",
+    "lastName": "Donelan",
+    "id": "d30808c305",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Roxann",
+    "lastName": "Kenny",
+    "id": "540a659560",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lakesha",
+    "lastName": "Pietz",
+    "id": "4b32e8f5b5",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Trinh",
+    "lastName": "Sentell",
+    "id": "29c1510f3e",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Cornelius",
+    "lastName": "Garcia",
+    "id": "524be7208f",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jalisa",
+    "lastName": "Amaya",
+    "id": "6f71851ccc",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Adriane",
+    "lastName": "Pietz",
+    "id": "09415f88ff",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Cheryl",
+    "lastName": "Wallach",
+    "id": "f41402972d",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Cheryl",
+    "lastName": "Ekstrom",
+    "id": "e05a9cee8e",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Jalisa",
+    "lastName": "Logan",
+    "id": "a092ffe656",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Logan",
+    "id": "6a5a7cccf8",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Cheryl",
+    "lastName": "Spann",
+    "id": "f60846fc0c",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Lillie",
+    "lastName": "Spann",
+    "id": "a128a57918",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  },
+  {
+    "firstName": "Tierra",
+    "lastName": "Jean-Carlo",
+    "id": "d74d7d17b2",
+    "isActive": true,
+    "courses": ["ENGL101, BIO101, MATH101, ART101, HIST101"],
+    "GPA": 4
+  }
+]
