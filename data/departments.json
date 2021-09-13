@@ -1,0 +1,47 @@
+[
+  {
+    "name": "English",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Mathematics",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Biology",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "History",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Sociology",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Art",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Language",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Computer Science",
+    "mainBuilding": {},
+    "courses": []
+  },
+  {
+    "name": "Physics",
+    "mainBuilding": {},
+    "courses": []
+  }
+]
